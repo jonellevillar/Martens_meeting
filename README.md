@@ -1,2 +1,2 @@
 # Martens_meeting
-Jan13, 2020
+January 13, 2020
