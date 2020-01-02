@@ -1,0 +1,36 @@
+---
+title: "Epigenomics of Common Diseases"
+author: "Wellcome Genome Campus - Hinxton, Cambridge"
+date: "6 - 8 November, 2019"
+output: 
+  xaringan::moon_reader:
+    nature:
+      highlightStyle: github
+      highlightLines: true
+params:
+  name1: "Jonelle" 
+  name2: "Jonell"
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(fig.retina = 3, warning = FALSE, message = FALSE)
+library(tidyverse) # load tidyverse package
+
+```
+
+
+
+
+
+```{r photo, echo = FALSE}
+knitr::include_graphics("https://github.com/USERNAME.png") # update USERNAME here
+```
+
+
+
+
+
+
+
+
