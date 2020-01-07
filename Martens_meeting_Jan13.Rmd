@@ -4,14 +4,13 @@ author: "Wellcome Genome Campus - Hinxton, Cambridge"
 date: "6 - 8 November, 2019"
 output: 
   xaringan::moon_reader:
+    css: [default, fc, fc-fonts, "hygge"]
+    lib_dir: libs
     nature:
       highlightStyle: github
       highlightLines: true
-params:
-  name1: "Jonelle" 
-  name2: "Jonell"
----
 
+---
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 knitr::opts_chunk$set(fig.retina = 3, warning = FALSE, message = FALSE)
@@ -19,12 +18,16 @@ library(tidyverse) # load tidyverse package
 
 ```
 
+class: middle, center 
+background-image: url(img/Happy2020.jpg)
+background-position: cover
 
+---
 
 
 
 ```{r photo, echo = FALSE}
-knitr::include_graphics("https://github.com/USERNAME.png") # update USERNAME here
+knitr::include_graphics("https://Happy2020.jpg") 
 ```
 
 
