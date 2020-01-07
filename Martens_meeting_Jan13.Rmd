@@ -18,6 +18,17 @@ library(tidyverse) # load tidyverse package
 
 ```
 
+background-image: url(img/TandL.jpg)
+background-position: cover
+background-size:910px
+
+class: middle, bottom 
+#What impressed me most about the trip to Hinxton?
+
+---
+
+
+
 class: middle, center 
 background-image: url(img/Happy2020.jpg)
 background-position: cover
