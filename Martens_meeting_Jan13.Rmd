@@ -32,7 +32,7 @@ class: middle, left
 #Great talks in a nutshell<br /> <br />
 
 .Large[
--  Timing is everything - Circadian rythms influence DNA methylation<br /> <br />
+-  Timing is everything - Circadian rythms ⟹   DNAb>      <br />
 
 -  Chicken or the egg? -  BMI  ⟺  DNA methylation<br /> <br />
 
@@ -44,7 +44,6 @@ class: middle, left
 
 
 ---
-
 background-image: url(img/group2019.jpeg)
 background-position: contain
 background-size:910px
@@ -52,15 +51,10 @@ background-size:910px
 class: Center, top
 # **Acknowledgements**
 
-&nbsp;
-
 ---
-
 class: middle, center 
 background-image: url(img/Happy2020.jpg)
 background-position: cover
-
-
 
 ---
 
