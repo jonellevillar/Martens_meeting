@@ -27,15 +27,44 @@ class: middle, bottom
 
 ---
 
+class: middle, left
 
+#Great talks in a nutshell<br /> <br />
+
+.Large[
+-  Timing is everything - Circadian rythms influence DNA methylation<br /> <br />
+
+-  Chicken or the egg? -  BMI  ⟺  DNA methylation<br /> <br />
+
+-  Ribosomal DNA methylation - ]
+
+
+
+---
+
+
+---
+
+background-image: url(img/group2019.jpeg)
+background-position: contain
+background-size:910px
+
+class: Center, top
+# **Acknowledgements**
+
+&nbsp;
+
+---
 
 class: middle, center 
 background-image: url(img/Happy2020.jpg)
 background-position: cover
 
+
+
 ---
 
-
+Circadian oscillations of DNA methylation & demethylation
 
 ```{r photo, echo = FALSE}
 knitr::include_graphics("https://Happy2020.jpg") 
