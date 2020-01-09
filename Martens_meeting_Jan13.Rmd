@@ -81,12 +81,13 @@ class: Center, top
 
 
 ---
+class: Center, top
+
 background-image: url(img/group2019.jpeg)
 background-position: contain
 background-size:910px
 
-class: Center, top
-# **Acknowledgements**
+# **Acknowledgements**<br /> <br /> <br /> <br /> <br /< <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br/> With special thanks to Stéphanie for driving!
 
 ---
 class: middle, center 
