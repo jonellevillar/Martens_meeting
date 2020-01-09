@@ -1,7 +1,7 @@
 ---
 title: "Epigenomics of Common Diseases"
-author: "Wellcome Genome Campus - Hinxton, Cambridge"
-date: "6 - 8 November, 2019"
+subtitle: "Wellcome Genome Campus - Hinxton, Cambridge"
+date: "6 - 8 November, 2019<br /> <br/>Jonelle D. Villar, PhD student<br /> Epigenetics and Multiomics Group"
 output: 
   xaringan::moon_reader:
     css: [default, fc, fc-fonts, "hygge"]
@@ -9,34 +9,40 @@ output:
     nature:
       highlightStyle: github
       highlightLines: true
+---
+layout: true
+
+background_image: url(img/NORMENT.png), url(img/UiB.png)
+background_position: 100% 15%, 100% 5%
+background_size: 10%
 
 ---
+
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 knitr::opts_chunk$set(fig.retina = 3, warning = FALSE, message = FALSE)
-library(tidyverse) # load tidyverse package
+library(tidyverse) 
 
 ```
+
+---
+class: middle, bottom 
 
 background-image: url(img/TandL.jpg)
 background-position: cover
 background-size:910px
 
-class: middle, bottom 
 #What impressed me most about the trip to Hinxton?
 
 ---
-
 class: middle, left
 
-#Great talks in a nutshell<br /> <br />
+#Great talks about epigenetics<br /> <br />
 
 .Large[
--  Timing is everything - Circadian rythms ⟹   DNAb>      <br />
-
--  Chicken or the egg? -  BMI  ⟺  DNA methylation<br /> <br />
-
--  Ribosomal DNA methylation - ]
+-  Timing is everything - Circadian rythms  ⟹influence DNAm<br /> <br />
+-  Chicken or the egg? -  BMI ⟺ DNAm<br /> <br />
+-  rDNA is environmentally sensitive]
 
 
 
@@ -48,37 +54,51 @@ background-size:700px
 class: Center, top
 
 
-#Akil Nair 
-Circadian DNA modification is involved in aging and complex disease, U of Toronto.
+#Akil Nair, University of Toronto
+Circadian DNA modification is involved in aging and complex disease
+Circadian oscillations of DNA methylation & demethylation
 
 Osc-modC change with age, sampling times shown to impact SZ. Time of sampling may be a confounding variable. , Oscillations may be error prone. 
+.left[words]
 ---
 
+#BMI
 
+.large[words]
 
 ---
+class: Center, top
 
 background-image: url(img/Rakyan.png)
-background-position: contain
-background-size:700px
+background-position: 35% 30%
+background-size:600px
 
-class: Center, top
 
-#Varhman Rakyan - Queen Mary, University of London
+#Vardhman Rakyan - Queen Mary, University of London<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+.large[
+-  Adenine is sensitive to DNAm<br /> <br />
+-  Chicken or the egg? -  BMI ⟺ DNAm<br /> <br />
+-  rDNA is environmentally sensitive]
+
 
 ---
+class: Center, top
+
 background-image: url(img/aDNA_age.png)
-background-position: contain
-background-size:700px
+background-position: 35% 30%
+background-size:650px
 
 class: Center, top
 
-#Varhman Rakyan & Robert Lowe
+#Robert Lowe & Vardhman Rakyan<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
+###DNAm is currently known to be the most accurate molecular biomarker of age in humans.
+.large[
+-
+-
+-
 
-
-
-
+]
 
 ---
 class: Center, top
@@ -96,11 +116,8 @@ background-position: cover
 
 ---
 
-Circadian oscillations of DNA methylation & demethylation
 
-```{r photo, echo = FALSE}
-knitr::include_graphics("https://Happy2020.jpg") 
-```
+
 
 
 
