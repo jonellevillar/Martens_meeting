@@ -73,12 +73,15 @@ class: Left, bottom
 ---
 class: Center, top
 
-background-image: url(img/Rakyan.png),(img/variants.png)
-background-position: 35% 30%, 65% 20%
-background-size:600px
+background-image: url(img/Rakyan.png)
+background-position: 35% 30%, 20%, 65%
+background-size:600px, 300px
+
 
 
 #Vardhman Rakyan - Queen Mary, University of London<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+
+
 .large[
 -  rDNA is sensitive to environmental challenges<br /> <br />
 -  Adenine "attracts" DNAm at promoter sites, while cytosine does not<br /> <br />
@@ -86,6 +89,17 @@ background-size:600px
 
 
 ---
+
+class: Center, top
+
+background-image: url(img/variants.png)
+background-position: 35% 30%
+background-size:600px
+
+---
+url(img/Rakyan.png)
+
+
 class: Center, top
 
 background-image: url(img/aDNA_age.png)
