@@ -32,18 +32,16 @@ class: middle, left
 #Great talks about epigenetics<br /> <br />
 
 .Large[
--  Circadian rythms  ⟹influence DNAm<br /> <br />
--   BMI ⟺ DNAm<br /> <br />
--  rDNA is environmentally sensitive<br /> <br />
+-  Confounding factors, e.g. circadian rythms and BMI<br /> <br />
+-  rDNA is sensitive to environmental challenges<br /> <br />
 -  Multiomics method reveals *IGF2* in psychosis
 ]
 
 
-
 ---
-background-image: url(img/circadian.png)
-background-position: 30% 30%
-background-size:600px
+background-image: url(img/oscC.jpg), url(img/circadian.png)
+background-position: 90% 55%, 20% 25%
+background-size:500px, 550px
 
 class: Center, top
 
@@ -55,14 +53,6 @@ class: Center, top
 -  Osc-modC reflects DNAm and demethylation<br /> <br />
 -  Sampling times shown to impact SZ<br /> <br />
 -  Time of sampling may be a confounding variable]
-
----
-background-image: url(img/oscC.jpg)
-background-position: 50% 40%
-background-size:600px
-
-
-
 
 ---
 background-image: url(img/BMI.png)
@@ -87,7 +77,7 @@ background-size:600px
 class: Center, top
 
 #Catalog search of BMI including *SREBF1*<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
-#shows BMI and DNAm as both exposure/outcome.
+#shows studies of BMI and DNAm as both exposure & outcome.
 
 .large[http://www.ewascatalog.org
 ]
