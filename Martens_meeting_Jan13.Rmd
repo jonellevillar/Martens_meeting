@@ -42,11 +42,10 @@ class: middle, left
 
 ---
 background-image: url(img/circadian.png)
-background-position: 25% 25%
-background-size:700px
+background-position: 30% 30%
+background-size:600px
 
 class: Center, top
-
 
 #Akil Nair, University of Toronto<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
@@ -56,6 +55,14 @@ class: Center, top
 -  Osc-modC reflects DNAm and demethylation<br /> <br />
 -  Sampling times shown to impact SZ<br /> <br />
 -  Time of sampling may be a confounding variable]
+
+---
+background-image: url(img/oscC.jpg)
+background-position: 50% 40%
+background-size:600px
+
+
+
 
 ---
 background-image: url(img/BMI.png)
@@ -70,11 +77,6 @@ class: Center, top
 -  xxx<br /> <br />
 -  xxx<br /> <br />
 -  xxx ]
-
----
-background-image: url(img/oscC.jpg)
-background-position: 50% 40%
-background-size:600px
 
 
 ---
@@ -129,11 +131,6 @@ class:Center, top
 
 
 ---
-url(img/Rakyan.png)
-
-
-class: Center, top
-
 background-image: url(img/aDNA_age.png)
 background-position: 35% 30%
 background-size:650px
@@ -142,13 +139,31 @@ class: Center, top
 
 #Robert Lowe & Vardhman Rakyan<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
-###DNAm is currently known to be the most accurate molecular biomarker of age in humans.
+
 .large[
--
--
--
+- DNAm - the most accurate molecular biomarker of age in humans
+- xxx
+- xxx
 
 ]
+
+---
+background-image: url(img/IGF2.png)
+background-position: 35% 30%
+background-size:600px
+
+class: Center, top
+
+#Viviane Labrie, Van Andel Institute, USA<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+
+.large[
+- xxx
+- xxx
+- xxx
+
+]
+
+
 
 ---
 class: Center, top
