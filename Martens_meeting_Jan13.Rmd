@@ -58,6 +58,26 @@ class: Center, top
 -  Time of sampling may be a confounding variable]
 
 ---
+background-image: url(img/BMI.png)
+background-position: 50% 40%
+background-size:600px
+
+class: Center, top
+
+#Stephanie London, NiH, PACE<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+
+.large[
+-  xxx<br /> <br />
+-  xxx<br /> <br />
+-  xxx ]
+
+---
+background-image: url(img/oscC.jpg)
+background-position: 50% 40%
+background-size:600px
+
+
+---
 background-image: url(img/EWAS.png)
 background-position: 50% 40%
 background-size:600px
