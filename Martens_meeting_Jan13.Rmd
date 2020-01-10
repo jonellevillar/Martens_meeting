@@ -85,7 +85,7 @@ background-size:400px, 500px
 .large[
 -  rDNA is sensitive to environmental challenges<br /> <br />
 -  Adenine "attracts" DNAm at promoter sites, while cytosine does not<br /> <br />
--  rDNA can display changes to DNA, masquerading as "epigenetic" effects]
+-  Linear relationship: reduced weight and CpG-133-A methylation]
 
 ---
 background-image: url(img/epi_inheritance.png)
@@ -100,8 +100,8 @@ class:Center, top
 
 
 .large[
--  Animales with higher %A, silence more A-variants through DNAm at CpG133<br /> <br />
--  Hypermethylation at CpG133 correlated with reduced weaning weight<br /> <br />
+-  Animales with higher % A, silence more A-variants through DNAm at CpG-133<br /> <br />
+-  rDNA can display changes to DNA, masquerading as "epigenetic" effects<br /> <br />
 -  DNAm pattern maintained into adulthood]
 
 
