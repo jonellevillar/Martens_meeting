@@ -99,9 +99,9 @@ class:Center, top
 
 
 .large[
--  rDNA is sensitive to environmental challenges<br /> <br />
--  Adenine "attracts" DNAm at promoter sites, while cytosine does not<br /> <br />
--  rDNA can display changes to DNA, masquerading as "epigenetic" effects]
+-  Animales with higher %A, silence more A-variants through DNAm at CpG133<br /> <br />
+-  Hypermethylation at CpG133 correlated with reduced weaning weight<br /> <br />
+-  DNAm pattern maintained into adulthood]
 
 
 
