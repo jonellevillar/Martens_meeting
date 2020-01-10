@@ -42,7 +42,7 @@ class: middle, left
 
 ---
 background-image: url(img/circadian.png)
-background-position: 35% 35%
+background-position: 25% 25%
 background-size:700px
 
 class: Center, top
@@ -51,24 +51,25 @@ class: Center, top
 #Akil Nair, University of Toronto<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
 
-
-
 .large[
 -  Circadian DNA modification is involved in aging and complex disease<br /> <br />
--  Circadian oscillations (Osc-modC) reflect DNAm and demethylation<br /> <br />
--  Osc-modC change with age, sampling times shown to impact SZ<br /> <br />
-- Time of sampling may be a confounding variable]
+-  Osc-modC reflects DNAm and demethylation<br /> <br />
+-  Sampling times shown to impact SZ<br /> <br />
+-  Time of sampling may be a confounding variable]
 
 ---
 background-image: url(img/EWAS.png)
-background-position: contain
+background-position: 50% 40%
 background-size:600px
 
-class: Left, bottom
+class: Center, top
 
-###EWA-studies of BMI including *SREBF1* show both BMI and DNAm as exposure/outcome 
+#Catalog search of BMI including *SREBF1*<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+#shows BMI and DNAm as both exposure/outcome.
 
-
+.large[http://www.ewascatalog.org
+]
+ 
 ---
 class: Center, top
 
