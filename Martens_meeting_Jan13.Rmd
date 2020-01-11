@@ -32,7 +32,7 @@ class: middle, left
 #Great talks about epigenetics<br /> <br />
 
 .Large[
--  Confounding factors, e.g. circadian rythms and BMI<br /> <br />
+-  Confounding factors, e.g. circadian rhythms and BMI<br /> <br />
 -  rDNA is sensitive to environmental challenges<br /> <br />
 -  Multiomics method reveals *IGF2* in psychosis
 ]
@@ -40,7 +40,7 @@ class: middle, left
 
 ---
 background-image: url(img/oscC.jpg), url(img/circadian.png)
-background-position: 90% 55%, 20% 25%
+background-position: 90% 60%, 20% 25%
 background-size:500px, 550px
 
 class: Center, top
@@ -49,10 +49,9 @@ class: Center, top
 
 
 .large[
--  Circadian DNA modification is involved in aging and complex disease<br /> <br />
 -  Osc-modC reflects DNAm and demethylation<br /> <br />
--  Sampling times shown to impact SZ<br /> <br />
--  Time of sampling may be a confounding variable]
+-  Sampling time may be a confounding variable<br /> <br />
+-  Missing link to unexplained epigenomic variation?]
 
 ---
 background-image: url(img/BMI.png)
