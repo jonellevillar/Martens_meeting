@@ -20,9 +20,9 @@ library(tidyverse)
 
 class: middle, bottom 
 
-background-image: url(img/TandL.jpg)
-background-position: cover
-background-size:910px
+background-image: url(img/TandL.jpg), url(img/NORMENT.png), url(img/UiBe.png)
+background-position: 50%50%, 95%07%, 59%07%
+background-size: 900px, 200px, 275px
 
 #What impressed me most about the trip to Hinxton?
 
