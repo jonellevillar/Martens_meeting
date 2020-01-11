@@ -89,7 +89,6 @@ background-position: 70% 55%, 25% 25%
 background-size:400px, 550px
 
 
-
 #Vardhman Rakyan - Queen Mary, University of London<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
 
@@ -119,17 +118,16 @@ class:Center, top
 ---
 background-image: url(img/IGF2.png)
 background-position: 35% 30%
-background-size:650px
+background-size:630px
 
 class: Center, top
 
 #Viviane Labrie, Van Andel Institute, USA<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
 .large[
--  **IGF2**-enhancer regulates tyrosine hydroxylast (**TH**) gene<br /> <br />
-- TH ⟹ rate-limiting enzyme responsible for dopmine synthesis<br /> <br />
-- Mechanism of epigenetic regulation of brain dopamine levels?
-]
+-  Hypomethylation of *IGF2*-enhancer ⟹ psychosis-risk<br /> <br />
+-  TH ⟹ rate-limiting enzyme responsible for dopmine synthesis<br /> <br />
+-  Hypomethylation *IGF2* ⟹  risk of SZ, low brain weight (Pidsley *et al* , 2010)  ]
 
 
 
