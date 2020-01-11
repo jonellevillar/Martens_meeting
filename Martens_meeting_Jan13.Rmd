@@ -111,8 +111,9 @@ class:Center, top
 
 .large[
 -  Animales with higher % A, silence more A-variants through DNAm at CpG-133<br /> <br />
--  rDNA can display changes to DNA, masquerading as "epigenetic" effects<br /> <br />
--  DNAm pattern maintained into adulthood]
+-  DNAm pattern maintained into adulthood<br /> <br />
+-  rDNA can display changes to DNA, masquerading as "epigenetic" effects
+]
 
 
 ---
