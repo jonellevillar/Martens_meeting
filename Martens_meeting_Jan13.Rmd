@@ -169,7 +169,6 @@ class: middle, center
 background-image: url(img/Happy2020.jpg)
 background-position: cover
 
----
 
 
 
