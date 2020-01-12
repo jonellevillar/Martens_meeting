@@ -1,7 +1,7 @@
 ---
 title: "Epigenomics of Common Diseases"
-subtitle: "Wellcome Genome Campus - Hinxton, Cambridge"
-date: "6 - 8 November, 2019<br /> <br/>Jonelle D. Villar, PhD student<br /> Epigenetics and Multiomics Group"
+subtitle: "New ideas to consider or stew over"
+date: "Martens Scientific Day, Jan. 13, 2020<br /> <br/>Jonelle D. Villar, PhD student<br /> Epigenetics and Multiomics Group"
 output: 
   xaringan::moon_reader:
     css: [default, fc, fc-fonts, "hygge"]
